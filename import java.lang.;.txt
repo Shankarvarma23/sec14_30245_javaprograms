@@ -1,0 +1,8 @@
+import java.lang.*;
+public class Voting
+{
+public static void main(String a[])
+{
+int A=17
+int B=19
+
